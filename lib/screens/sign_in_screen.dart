@@ -20,6 +20,7 @@ class SignInScreen extends StatelessWidget {
       body: Center(
         child: Padding(
           padding: EdgeInsets.all(16),
+          child: Form()
           
         )
       )
